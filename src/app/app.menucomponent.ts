@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 
 export class MenuComponent {
-  title = 'Project FireWorm';
+  title = 'FireWorm';
 }

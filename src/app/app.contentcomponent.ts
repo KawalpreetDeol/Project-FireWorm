@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.contentcomponent.css']
 })
 
-export class AppComponent {
+export class ContentComponent {
   title = 'Project FireWorm';
 }
